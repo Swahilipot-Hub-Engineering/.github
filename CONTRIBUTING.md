@@ -200,40 +200,6 @@ Add badges to README for:
 
 ---
 
-## Marketing Your Release
-
-### Launch Week Activities
-**Day 1-2: Prepare**
-- Finalize README and documentation
-- Create demo video or GIF
-- Write launch blog post
-- Prepare social media posts
-
-**Day 3: Soft Launch**
-- Share in Swahilipot Hub internal channels
-- Post in relevant Slack/Discord communities
-- Share on personal networks
-
-**Day 4-5: Public Launch**
-- Publish blog post
-- Post on social media with hashtags
-- Submit to Product Hunt (optional)
-- Share in relevant subreddits (follow community rules)
-- Email relevant newsletters
-
-**Week 2+: Follow-up**
-- Respond to all feedback
-- Fix reported bugs quickly
-- Write follow-up posts about lessons learned
-- Thank contributors publicly
-
-### Ongoing Promotion
-- Monthly: Share updates on progress
-- Quarterly: Write case studies of project usage
-- Yearly: Publish year-in-review stats
-
----
-
 ## Metrics That Matter
 
 Track these to measure success:
@@ -278,44 +244,21 @@ Track these to measure success:
 ### Learning Resources
 - [Open Source Guides](https://opensource.guide/) by GitHub
 - [The Architecture of Open Source Applications](https://aosabook.org/)
-- [Working in Public](https://www.amazon.com/dp/0578675862) by Nadia Eghbal
 
 ### Community
-- Swahilipot Hub Engineering Slack: #open-source
+- Swahilipot Hub Engineering [Discord Channel](https://discord.gg/jsv8mbxyFD)
 - Weekly open source office hours: Fridays 3-4pm
 - Questions? Email: engineering@swahilipothub.co.ke
 
 ---
 
-## Review & Approval Process
-
-Before releasing any open source project:
-
-1. **Technical Review**: Have another engineer review code and docs
-2. **Security Audit**: Run security scanners, remove sensitive data
-3. **Legal Check**: Ensure license is appropriate and dependencies are compatible
-4. **Leadership Approval**: Get sign-off from Engineering Lead
-5. **Brand Review**: Ensure branding guidelines are followed
-6. **Launch Plan**: Share your marketing timeline with Communications team
-
----
-
-## Success Stories
-
-Learn from our previous successful releases:
-- [Project Name 1]: 500+ stars, featured in [Publication]
-- [Project Name 2]: Adopted by [Notable Organization]
-- [Project Name 3]: 50+ contributors from 15 countries
-
----
-
 ## Questions?
 
-Reach out in #open-source Slack channel or contact the Open Source Program Office at opensource@swahilipothub.co.ke
+Reach out in our discord channel or email us at dev@swahilipothub.co.ke
 
 **Remember**: Every successful open source project started with someone deciding to share their work. Your project could be the next tool that makes a developer's life easier or helps solve problems in our coastal communities. Let's build in the open! 🚀
 
 ---
 
-*Last Updated: November 2025*
+*Last Updated: January 2026*
 *Maintained by: Engineering Team, Swahilipot Hub Foundation*
